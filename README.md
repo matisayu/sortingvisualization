@@ -20,7 +20,8 @@
 ## About The Project
 
 <p align="left">
-  This project is still being improved on. The rough copy "temp.py" is my basic prototype with comments for my own purposes.
+  This sorting visualization is created in Python with Spyder and matplotlib. A live demo will be available soon.
+  
   </p>
  
  
